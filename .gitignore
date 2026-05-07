@@ -2,3 +2,5 @@ ML_pipeline_2/
 
 # model 
 src/model.pkl
+
+__pycache__/
